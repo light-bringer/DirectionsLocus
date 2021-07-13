@@ -1,4 +1,4 @@
-package locationsimulator;
+package googlemaps;
 
 public class Request {
 
