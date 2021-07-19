@@ -1,4 +1,4 @@
-package googlemaps;
+package api.googlemaps;
 
 public class Request {
 
